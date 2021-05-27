@@ -28,6 +28,8 @@ sysctl machdep.cpu | grep machdep.cpu.thread_count # mac超线程，一般为双
 ```
 
 # node cluster启动多进程
+
+目录: `./cluster`
 ## 按照cps核数启动多个工作进程worker
 
 ```
